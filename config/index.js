@@ -25,7 +25,7 @@ module.exports = {
     },
     port: 8000,
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: './',
     proxyTable: {
       // proxy all requests starting with /api to jsonplaceholder
       // '/api': {

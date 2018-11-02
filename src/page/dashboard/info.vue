@@ -2,7 +2,7 @@
     <el-form ref="form" :model="form" class="c-form" label-width="150px">
         <el-form-item label="头像">
             <el-button type="text">
-                <img :src="user.avatar" />
+                <img :src="user.avatar"/>
             </el-button>
         </el-form-item>
         <el-form-item label="归属公司">

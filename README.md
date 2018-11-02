@@ -3,7 +3,7 @@
 #### nodejs 必须是 6.0 以上版本 ，node 7 是先行版，有可能会出问题，建议使用 node 6 稳定版
 
 ```
-cd vue2-admin
+cd vue-backstage
 
 npm install
 
@@ -29,4 +29,4 @@ npm run build
 
 # 线上预览
 
-http://59.110.223.81/
+https://ltdys.github.io/vue-backstage/

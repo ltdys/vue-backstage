@@ -5,14 +5,14 @@ const LoginUsers = [{
     id: 1,
     username: 'admin',
     password: '123456',
-    avatar: '/static/user.png',
+    avatar: 'static/user.png',
     name: '管理员',
   },
   {
     id: 1,
     username: 'jp',
     password: '123456',
-    avatar: '/static/user.png',
+    avatar: 'static/user.png',
     name: '蒋鹏',
   }
 ];
